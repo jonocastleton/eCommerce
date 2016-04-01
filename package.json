@@ -13,6 +13,10 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-google-oauth": "^1.0.0",
+    "session": "^0.1.0"
   }
 }

@@ -1,4 +1,5 @@
 
-angular.module('myApp').controller('ctrl', function($scope) {
+angular.module('eCommerce')
+  .controller('eController', function($scope) {
     $scope.test = "hello world";
  });

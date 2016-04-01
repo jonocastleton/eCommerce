@@ -1,5 +1,6 @@
 
-angular.module('myApp').service('service', function() {
+angular.module('eCommerce')
+  .service('service', function() {
 
 
  });
